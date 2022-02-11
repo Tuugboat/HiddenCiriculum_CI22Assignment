@@ -3,7 +3,9 @@
 # vignette("colwise")
 # vignette("rowwise")
 
-read_csv(here("data/NLSY97_raw.csv")) %>%
+#usage notes: rowwise operations probably need to be fixed next.
+
+read_csv(here("data/NLSY97_Incarceration_raw.csv")) %>%
   
   # refused responses or already incarcerated --> NA
   # starts_with("E") are the columns that hold number of arrests per month of 2002
@@ -36,4 +38,4 @@ read_csv(here("data/NLSY97_raw.csv")) %>%
   select(race, gender, total_arrests) %>%
   
   # write to a csv
-  write_csv(here("data/NLSY97_clean.csv"))
+  write_csv(here("data/NLSY97_Incarceration_clean.csv"))
