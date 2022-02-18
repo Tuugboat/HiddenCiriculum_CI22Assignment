@@ -1,0 +1,59 @@
+\documentclass{article}
+
+% Math packages
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+% R Table packages
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{colortbl}
+\usepackage{xcolor}
+
+% Page layout libraries
+\usepackage{a4wide}
+\usepackage{setspace}
+\usepackage{geometry}
+\usepackage{parskip}
+\usepackage{fancyhdr}
+
+% Setting up the heading style preferred here
+\pagestyle{fancy}
+\fancyhead[L]{\thepage}
+\fancyhead[C]{}
+\fancyhead[R]{\textrm{Robert Petit}}
+\fancyfoot[L, C, R]{}
+
+
+% this package helps us with including images. Setting the graphics path makes it easier to refer to things in the \includegraphics command.
+\usepackage{graphicx}
+\graphicspath{ {../figures/} }
+
+% Titling
+\title{Incarceration Analysis}
+\author{Robert Petit}
+\date{February, 2022}
+
+\begin{document}
+\maketitle
+Some ideas for writing beyond these basic figures and tables:
+\begin{itemize}
+\item  First and foremost, it may be a good idea to go month by month and get the starting date of arrests. 
+\item There is also the option to count the total number of incarcerations. This may be redundant to arrests
+\item Additionally, if there is the option in NLSY97, it might be neat to look at conviction rates based on race by constructing a conviction likelihood by arrests -> incarcerations
+\end{itemize}
+
+\begin{figure}[H]
+    \begin{center}
+        \includegraphics[width=.85\textwidth]{MonthsIncarcerated_by_racegender}
+    \end{center}
+    \caption{Happy Cappy}
+    \label{fig:graph}
+\end{figure}
+
+
+\input{../tables/MonthsIncarcerated_by_racegender.tex}
+
+\input{../tables/regress_MonthsIncarcerated_by_racegender.tex}
+
+\end{document}
