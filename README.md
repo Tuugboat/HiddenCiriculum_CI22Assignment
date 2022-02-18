@@ -1,19 +1,7 @@
 # R Hidden Curriculum Assignment
 
-Your assignment is to replicate this GitHub repository and produce a report that describes patterns in INCARCERATION STATUS by race and gender in the year 2002, using NLSY97 publicly available data. To do this, you will need to create a data extract at the [NLS Investigator](https://www.nlsinfo.org/investigator/pages/search) website that pulls the variables of interest. Here is a screenshot to help you out:
+This is the writeup for the Hidden Ciriculum assignment. 
 
-![](https://raw.githubusercontent.com/nateybear/causal-inference-2022/main/writing/rdemo_assets/NLSY97%20Investigator.png)
+The writeup can be found within writing/Incarceration_WriteUp.pdf
 
-MAKE SURE to read the Codebook tab to understand how your variables are coded!
-
-Navigate to the Save/Download tab and use the Advanced Download feature to download a comma-delimited file (CSV). You may download the RData file instead if you wish, but my example code uses CSV files.
-
-# Grading
-
-The deliverable that you turn into Canvas will be a URL linking to your GitHub repository. You will be graded based on having all of the following in your GitHub repository:
-
-* A build script that cleans the raw dataset and prepares it for analysis
-* A script that generates a plot using `ggplot` and saves it in the figures directory
-* A script that generates a summary table using `kableExtra` and saves it in the tables directory
-* A script that generates a regression output summary using `stargazer` and saves it in the tables directory
-* A brief report written in LaTeX that summarizes the patterns that you find. Use a formal and descriptive writing style. You will be graded on a genuine attempt at analyzing the results.
+Note for future self: it might be interesting to compare the lagged weekly employment status with the arrest rate and conviction rate, controlling for race and gender as well.  First attempts at this were complicated since you have to combine the week # with the month # ([1, 52] -> [1, 12]) which was a little outside the scope of this assignment. Might be a good *starting point* for semester-long assignment
