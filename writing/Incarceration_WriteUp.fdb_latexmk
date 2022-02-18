@@ -1,12 +1,10 @@
 # Fdb version 3
-["pdflatex"] 1645144335 "c:/Users/rober/Desktop/CI/HiddenCiriculum_CI22Assignment/writing/Incarceration_WriteUp.tex" "Incarceration_WriteUp.pdf" "Incarceration_WriteUp" 1645144336
-  "../figures//MonthsIncarcerated_by_racegender.png" 1645138225 44357 8770c53e2e6c6e92c0c0aa625bda46e2 ""
-  "../tables/MonthsIncarcerated_by_racegender.tex" 1645140283 492 9d7d06ddd61b7675e056dbabd5085fbb ""
-  "../tables/regress_MonthsIncarcerated_by_racegender.tex" 1645142575 1189 eb6403d6b07d1f7b9310c427ac8d30d0 ""
-  "C:/Users/rober/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1636766388 11548 ee0ce46325ab23ad7ff6c799114468da ""
+["pdflatex"] 1645219190 "c:/Users/rober/Desktop/CI/HiddenCiriculum_CI22Assignment/writing/Incarceration_WriteUp.tex" "Incarceration_WriteUp.pdf" "Incarceration_WriteUp" 1645219191
+  "../figures//MonthsIncarcerated_by_racegender.png" 1645219179 41371 4d09319986edc7c3e5c125351d8b5c8d ""
+  "../tables/MonthsIncarcerated_by_racegender.tex" 1645219179 488 64eb669bd24da2892dba66681c849c84 ""
+  "../tables/regress_MonthsIncarcerated_by_racegender.tex" 1645219179 1171 7048c6deee4854c986c3e98dcea641e9 ""
   "C:/Users/rober/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1636765975 9726368 edf6c25fa9f3bb5572fc10ef7adfe5fa ""
   "C:/Users/rober/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1645143195 81068 299f700eb05b1217173e62b88b513bd0 ""
-  "C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993058908 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -76,9 +74,9 @@
   "C:/Users/rober/AppData/Local/Programs/MiKTeX/tex/latex/setspace/setspace.sty" 1324294077 22913 a27d7908fc6f0385466454a966a316eb ""
   "C:/Users/rober/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1622546726 12689 a1a7b2795918756dcb9c9cbfacc4d9c7 ""
   "C:/Users/rober/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1636284872 56029 3f7889dab51d620aa43177c391b7b190 ""
-  "Incarceration_WriteUp.aux" 1645144336 557 7b34edb749f1a39a4b22bcb69b04eec7 "pdflatex"
-  "Incarceration_WriteUp.tex" 1645144331 1675 bdc7ce172cd8b2ada1430ac8b90a576c ""
-  "c:/Users/rober/Desktop/CI/HiddenCiriculum_CI22Assignment/writing/Incarceration_WriteUp.tex" 1645144331 1675 bdc7ce172cd8b2ada1430ac8b90a576c ""
+  "Incarceration_WriteUp.aux" 1645219191 592 04cab276792706221fe0252a0c4b5be1 "pdflatex"
+  "Incarceration_WriteUp.tex" 1645219189 2622 da18e229d2ab65a4444d9d0ceb885628 ""
+  "c:/Users/rober/Desktop/CI/HiddenCiriculum_CI22Assignment/writing/Incarceration_WriteUp.tex" 1645219189 2622 da18e229d2ab65a4444d9d0ceb885628 ""
   (generated)
   "Incarceration_WriteUp.aux"
   "Incarceration_WriteUp.log"

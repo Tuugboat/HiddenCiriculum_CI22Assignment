@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.12)  17 FEB 2022 18:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.12)  18 FEB 2022 15:19
 entering extended mode
 **c:/Users/rober/Desktop/CI/HiddenCiriculum_CI22Assignment/writing/Incarceration_WriteUp.tex
 (c:/Users/rober/Desktop/CI/HiddenCiriculum_CI22Assignment/writing/Incarceration_WriteUp.tex
@@ -294,23 +294,23 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <../figures//MonthsIncarcerated_by_racegender.png, id=1, 578.16pt x 325.215pt>
 File: ../figures//MonthsIncarcerated_by_racegender.png Graphic file (type png)
 <use ../figures//MonthsIncarcerated_by_racegender.png>
-Package pdftex.def Info: ../figures//MonthsIncarcerated_by_racegender.png  used on input line 48.
+Package pdftex.def Info: ../figures//MonthsIncarcerated_by_racegender.png  used on input line 44.
 (pdftex.def)             Requested size: 365.50655pt x 205.59615pt.
  (../tables/MonthsIncarcerated_by_racegender.tex) [1
 
 {C:/Users/rober/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <../figures//MonthsIncarcerated_by_racegender.png>] (../tables/regress_MonthsIncarcerated_by_racegender.tex) [2] (Incarceration_WriteUp.aux) ) 
 Here is how much of TeX's memory you used:
- 4595 strings out of 478907
- 65517 string characters out of 2851891
- 381561 words of memory out of 3000000
- 22388 multiletter control sequences out of 15000+600000
- 410754 words of font info for 56 fonts, out of 8000000 for 9000
+ 4592 strings out of 478907
+ 65482 string characters out of 2851891
+ 383561 words of memory out of 3000000
+ 22386 multiletter control sequences out of 15000+600000
+ 410419 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,11n,66p,600b,268s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\rober\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Incarceration_WriteUp.pdf (2 pages, 129762 bytes).
+<C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Incarceration_WriteUp.pdf (2 pages, 128655 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
+ 51 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

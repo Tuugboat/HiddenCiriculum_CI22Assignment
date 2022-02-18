@@ -36,24 +36,27 @@
 
 \begin{document}
 \maketitle
-Some ideas for writing beyond these basic figures and tables:
-\begin{itemize}
-\item  First and foremost, it may be a good idea to go month by month and get the starting date of arrests. 
-\item There is also the option to count the total number of incarcerations. This may be redundant to arrests
-\item Additionally, if there is the option in NLSY97, it might be neat to look at conviction rates based on race by constructing a conviction likelihood by arrests -> incarcerations
-\end{itemize}
+
+Using the NLSY97 data, we can investigate some information about incarcerations among the participants. The first notable trends show up when we simply look at the mean number of months spent incarcerated by race and gender, as seen in Figure \ref{fig:MeanMonths}. 
 
 \begin{figure}[H]
     \begin{center}
         \includegraphics[width=.85\textwidth]{MonthsIncarcerated_by_racegender}
     \end{center}
-    \caption{Happy Cappy}
-    \label{fig:graph}
+    \caption{Months spent incarcerated, by race and gender}
+    \label{fig:MeanMonths}
 \end{figure}
 
+These trends are not incredibly surprising, the number of months spent incarcerated during a year is dramatically higher for black males than any other combination of race and gender; it is more than triple that of the next highest category, seen more precisely in table  \ref{tab:summarystats}.
 
 \input{../tables/MonthsIncarcerated_by_racegender.tex}
 
+A very simple regression also gives some estimation of the magnitude of these effects.
+
 \input{../tables/regress_MonthsIncarcerated_by_racegender.tex}
+
+Since black females are the omitted category, in order to understand the expectation of black males related to other combinations we have to observe the intercept and male coefficient simultaneously. As it turns out, these are the \emph{only} two positive coefficients which captures the information of the above graphs more accurately. It should also be noted that these values are all statistically significant to a high degree, with p-values less than 0.01.
+
+Ultimately, this data is very consistent with the common understanding of incarceration in the US. It varies significantly and consistently based on race. It should be notes that these are all correlational observations, and making a causal claim requires more complex observations.
 
 \end{document}
